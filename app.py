@@ -66,7 +66,7 @@ class SingularNotesResource(Resource):
 
 
 api.add_resource(AllNotesResource, '/notes')
-api.add_resource(SingularNotesResource, '/notes/<int:note_id>')
+api.add_resource(SingularNotesResource, '/notes/<int:notes_id>')
 
 
 if __name__ == '__main__':
