@@ -1,7 +1,7 @@
 ## STEPS TO RUN
 Python 3.10.5
 
-* For this assignment I used the class based approach provided by Flask RESTful which gives the object-oriented design pattern to our APIs. Though I am well aware with the function based approach also.
+* For this assignment I used the class based approach provided by Flask RESTful which gives the object-oriented design pattern to our APIs. Though I am well aware of the function based approach as well.
 
 Create a virtual environment
 
