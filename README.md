@@ -29,3 +29,11 @@ Start the server
 flask run
 ```
 
+Run using DOCKER if installed
+
+```sh
+docker pull mansidw/dubdub:latest
+```
+```sh
+docker run -it --init -p 5000:5000 mansidw/dubdub
+```
